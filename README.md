@@ -25,8 +25,6 @@ Para dudas sobre la materia o enunciados de tareas puedes abrir una
 | Vicente Valencia    | vmvalencia@uc.cl   |
 
 
-
-
 ## Contenidos
 - Visualización de información.
 - Tecnologías web.
@@ -59,4 +57,11 @@ Se puede faltar a **máximo un control o eliminar la peor nota**
 Todas las tareas se entregarán máximo a las 11:59pm del plazo 
 indicado. **Cada 1 hora de atraso en la entrega se descuentan 1.5** 
 **puntos**.
+
+### Fechas de evaluaciones escritas
+
+- Control 1: 28 de septiembre.
+- Control 2: 24 de octubre.
+- Control 3: 21 de noviembre.
+- Examen: 29 de noviembre.
 
