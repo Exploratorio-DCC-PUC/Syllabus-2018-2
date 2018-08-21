@@ -2,7 +2,7 @@
 Página principal del curso **IIC1005 - Computación: Ciencia y** 
 **Tecnología del Mundo Digita**l.
 Para dudas sobre la materia o enunciados de tareas puedes abrir una 
-[*issue*](https://github.com/Exploratorio-DCC-PUC/Syllabus/issues).
+[*ichus*](https://github.com/Exploratorio-DCC-PUC/Syllabus/issues).
 
 ## Equipo Docente
 
